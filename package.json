@@ -1,0 +1,7 @@
+{
+  "name": "ws26-bootstrap",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "bootstrap": "5.3.8" }
+}
